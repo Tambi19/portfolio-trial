@@ -1,0 +1,21 @@
+.box{
+    text-align: center;
+    width: 1400px;
+    height: 300px;
+ 
+    display: flex;
+    margin-top: 0px;
+    padding-left: 70px;
+   
+    align-items: center;
+
+}
+.h1{
+    margin-top: 20px;
+    color: aqua;
+}
+.content{
+    height: 50%;
+    width: 50%;
+    color: aquamarine;
+}
